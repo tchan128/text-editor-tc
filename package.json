@@ -1,12 +1,12 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A text editor that runs in the browser that meets the PWA criteria",
   "main": "server.js",
   "scripts": {
     "start:dev": "",
     "start": "",
-    "server": "",
+    "server": "webpack",
     "build": "",
     "install": "",
     "client": ""
@@ -16,10 +16,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "webpack-dev-server": "4.1"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4",
+    "dev": "webpack-dev-server --open"
   }
 }
