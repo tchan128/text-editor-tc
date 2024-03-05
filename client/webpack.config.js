@@ -22,7 +22,9 @@ module.exports = () => {
         template: './index.html',
         title: 'Webpack Plugin'
       }),
-      new InjectManifest()
+      new InjectManifest({
+        swSrc: './src-sw.js'
+      })
     ],
 
     module: {
