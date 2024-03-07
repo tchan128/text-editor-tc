@@ -31,12 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "Text Editor",
-  "short_name": "Editor",
+  "name": "Just Another Text Editor",
+  "short_name": "J.A.T.E",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "Take notes anywhere!",
-  "background_color": "",
-  "theme_color": ""
+  "description": "Take notes with JavaScript syntax highlighting",
+  "background_color": "#225ca3",
+  "theme_color": "#225ca3"
 }
