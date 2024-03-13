@@ -1,5 +1,5 @@
 <div id="readme-top" align="center">
-    <a href="https://github.com/tchan128/text-editor-tc"><img src="../text-editor-tc/client/src/images/pencil.png" alt="Logo" width="80" height="80"></a>
+    <a href="https://github.com/tchan128/text-editor-tc"><img src="./client/src/images/pencil.png" alt="Logo" width="80" height="80"></a>
     <h3 align="center">J.A.T.E Text Editor</h3>
     <p align="center">
         The motivation fo this project is to create a text editor that runs in the browser but also one that will also function online. Nowadays, while we have access to the internet almost everywhere to retrieve necessary data and notes, there are times when we lack internet connection. I built this project because I want to be able to and also help other save notes on a platform that is online but also accessible offline. Not only that, but a single page application that allows users to install as an app on their device with saved dat. This platform is a solution for individuals who is looking to find a way to take notes and save their notes both online and offline easily. You can access this note taker anywhere with the information you need. Through this project, I learned how to build a single page application that meets the PWA criteria. I also familiarized myself with manifest.json and service worker. Lastly, I learned more about client folders, the dist folders, indexedDB, and how concurrently works. 
@@ -66,9 +66,19 @@ To see the system in action please visit this link:
 
 ## Visuals
 
-1. GET all users
+1. Note taker app
 
+![Screenshot 2024-03-13 at 1 05 25 AM](https://github.com/tchan128/text-editor-tc/assets/56553374/ffddd6be-6571-48e8-934d-2c7a2de73929)
 
+2. Manifest.json
+   
+<img width="1458" alt="Screenshot 2024-03-13 at 1 20 08 AM" src="https://github.com/tchan128/text-editor-tc/assets/56553374/1eefb1a0-184a-43cd-941d-f7744e2f3f5b">
+
+3. Service Worker
+
+<img width="1458" alt="Screenshot 2024-03-13 at 1 20 52 AM" src="https://github.com/tchan128/text-editor-tc/assets/56553374/c04f544d-280a-4f54-832d-f57fc2909f48">
+
+4. Downloaded app
 
 ## Credits
 
