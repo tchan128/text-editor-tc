@@ -30,7 +30,7 @@ This project is a text editor. The parts I have added to the text editor involve
 
 ## Installation
 
-To use this app, you can access it via Heroku: 
+To use this app, you can access it via Render: https://text-editor-tc.onrender.com/ 
 
 If you want to clone this repository to make changes in your local copy, you can use the following commands: 
 
@@ -84,7 +84,9 @@ To see the system in action please visit this link:
 
 ## Credits
 
-This e-commerce backend was improved upon from the starter code. The starter code is cloned from here: https://github.com/coding-boot-camp/cautious-meme
+This text editor was improved upon from the starter code. The starter code is cloned from here: https://github.com/coding-boot-camp/cautious-meme/ 
+
+Here is a guide on Render I used to deploy the app: https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide
 
 README icon is found here: <a href="https://www.flaticon.com/free-icons/notes" title="notes icons">Notes icons created by Freepik - Flaticon</a>
 
@@ -103,6 +105,6 @@ Please refer to the LICENSE in the repo.
 Tiffany Chan - tchan12899@gmail.com
 
 - Project Link: https://github.com/tchan128/text-editor-tc
-- Deployed Link on Heroku: 
+- Deployed Link on Render: https://text-editor-tc.onrender.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
