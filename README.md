@@ -80,6 +80,8 @@ To see the system in action please visit this link:
 
 4. Downloaded app
 
+<img width="1427" alt="Screenshot 2024-03-13 at 1 23 28 AM" src="https://github.com/tchan128/text-editor-tc/assets/56553374/2c8b2502-2c8d-458d-bfe5-ffeeb0f4ba5c">
+
 ## Credits
 
 This e-commerce backend was improved upon from the starter code. The starter code is cloned from here: https://github.com/coding-boot-camp/cautious-meme
